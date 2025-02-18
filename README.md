@@ -16,7 +16,7 @@ O saldo será atualizado automaticamente conforme as transações forem adiciona
 1. **Clone o repositório** ou faça o download do código.
    - **Clone:**
      ```bash
-     git clone https://github.com/seu-usuario/controle-de-financas.git
+     git clone (https://github.com/aloisiojr22/controle-de-finan-as)
      ```
 
 2. Abra o arquivo `index.html` em seu navegador para começar a usar o sistema de controle de finanças.
