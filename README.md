@@ -1,17 +1,17 @@
-# Controle de Finanças
+Controle de Finanças
 
 Este é um projeto simples de **Controle de Finanças Pessoais**. 
 Ele permite que o usuário registre entradas e saídas de dinheiro, ajudando a manter o controle sobre seus gastos e receitas. 
 O saldo será atualizado automaticamente conforme as transações forem adicionadas.
 
-## Funcionalidades
+Funcionalidades
 
 - Adicionar **entradas** (receitas) e **saídas** (despesas).
 - Visualizar o **saldo total** de forma dinâmica, com atualização em tempo real.
 - Acompanhar a lista de transações realizadas, com a distinção entre entradas e saídas.
 - Design responsivo e moderno, adequado para dispositivos móveis.
 
-## Como usar
+Como usar
 
 1. **Clone o repositório** ou faça o download do código.
    - **Clone:**
